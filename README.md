@@ -1,3 +1,5 @@
+![azure Function](https://github.com/user-attachments/assets/53be8194-5967-4dcd-b51b-6057bb5eeac2)
+
 ### Criando Azure Function via VSCODE
 
 <p> O passo a passo a seguir, ilustra a maneira de criar Azure Function, via VSCODE permitindo assim mais facilidade de desenvolver códigos. 
